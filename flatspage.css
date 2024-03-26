@@ -1,0 +1,112 @@
+.home-page-top-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-page-bottom-bg-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 40px;
+    text-align: center;
+}
+
+.home-page-bottom-bg-container-heading {
+    font-family: "Bree Serif";
+    font-size: 23px;
+    color: #f19116;
+    font-weight: normal;
+}
+
+.home-page-bottom-bg-container-caption {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #7b8794;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.button {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    color: #ffffff;
+    width: 80px;
+    padding: 6px;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 6px;
+    margin-right: 5px;
+}
+
+.flat-details-bg-container {
+    background-color: #222222;
+    height: 100vh;
+    padding: 20px;
+}
+
+.flat-details-bg-container-heading {
+    font-family: "Bree Serif";
+    font-size: 23px;
+    color: #f19116;
+    font-weight: normal;
+    padding-top: 20px;
+}
+
+.bhk-flat-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bhk-flat-image {
+    width: 100px;
+    margin-right: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.bhk-heading {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 20px;
+    color: #0f0e46;
+}
+
+.bhk-description {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-right: 10px;
+    color: #6c6b70;
+}
+
+.flat-full-view-image {
+    height: 100vh;
+    width: 100vw;
+}
+
+.flat-location-icon {
+    height: 25px;
+    margin-right: 10px;
+}
+
+.flat-address {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.horizontal-line {
+    background-color: #ffffff;
+    margin-top: 20px;
+}
+
+.padding {
+    padding-top: 20px;
+}
